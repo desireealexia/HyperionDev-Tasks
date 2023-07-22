@@ -23,4 +23,4 @@
   <li> Task 22 - Capstone Project - NLP</li>
 </ul>	
 
-<h6>Tasks 3, 10, 13 and 23-25 were all careers related and have not been included. </h6>
+<h6>Tasks 6, 10, 13 and 23-25 were all careers related and have not been included. </h6>
