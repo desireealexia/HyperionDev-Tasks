@@ -1,4 +1,4 @@
-Part 1:
+# Part 1:
 
 name = input("What is your name?")
 print(name)
@@ -7,7 +7,7 @@ print(age)
 print("Hello World!")
 
 
-Part 2:
+# Part 2:
 
 print("To form your meal deal please select a main, drink and snack!")
 item1 = input("What would you like for your main? ")
