@@ -1,4 +1,5 @@
-# Little Sister's Vocabulary Challenge (https://exercism.org/tracks/python/exercises/little-sisters-vocab)
+# Little Sister's Vocabulary Challenge
+# Link to task: https://exercism.org/tracks/python/exercises/little-sisters-vocab
 
 # Asingment 1 - function that takes given word and adds the 'un' prefix
 # word (str): containg the root word
