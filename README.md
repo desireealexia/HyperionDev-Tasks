@@ -22,8 +22,8 @@
   <li>Task 18 - Introduction to Machine Learning	</li>
   <li>Task 19 - Supervised learning I: Simple Linear Regression</li>
     <ul>
-      <li>Part 1: insurance.csv</li>
-      <li>Part 2: Salary_Data.csv and Mall_Customers.csv</li>
+      <li></li>insurance.csv (part 1)</li>
+      <li>Salary_Data.csv and Mall_Customers.csv (part 2)</li>
     </ul>
   <li>Task 20 - Introduction to NLP	</li>
   <li>Task 21 - Semantic Similarity (NLP)	</li>
