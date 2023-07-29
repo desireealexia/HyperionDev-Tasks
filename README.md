@@ -16,18 +16,22 @@
   <li>Task 15 - Beginner Data Structures - 2D Lists	</li>
   <li>Task 16 - Data Visualisation I	</li>
   <li>Task 17 - Working with Datasets	</li>
-        <ul>
-      <li>balance.txt</li>
+    <ul>
+      <li>balance.txt (needed for both parts)</li>
     </ul>
   <li>Task 18 - Introduction to Machine Learning	</li>
   <li>Task 19 - Supervised learning I: Simple Linear Regression</li>
     <ul>
-      <li>insurance.csv (part 1)</li>
-      <li>Salary_Data.csv and Mall_Customers.csv (part 2)</li>
+      <li>insurance.csv (needed for part 1)</li>
+      <li>Salary_Data.csv and Mall_Customers.csv (needed for part 2)</li>
     </ul>
   <li>Task 20 - Introduction to NLP	</li>
   <li>Task 21 - Semantic Similarity (NLP)	</li>
+    <ul>
+      <li>movies.txt (needed for part 2)</li>
+    </ul>
   <li>Task 22 - Capstone Project - NLP</li>
+  <li>Task 23 - Little Sister's Vocabulary Challenge</li>
 </ul>	
 
-<h6>Tasks 6, 10, 13 and 23-25 were all careers related and have not been included. </h6>
+<h6>Tasks 6, 10, 13, 24 and 25 were all careers related and have not been included. </h6>
