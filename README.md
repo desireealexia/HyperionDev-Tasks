@@ -15,9 +15,16 @@
   <li>Task 14 - Beginner Programming with Functions - Defining Your Own Functions	</li>
   <li>Task 15 - Beginner Data Structures - 2D Lists	</li>
   <li>Task 16 - Data Visualisation I	</li>
-  <li>Task 17 - Working with Datasets	[balance.txt]</li>
+  <li>Task 17 - Working with Datasets	</li>
+        <ul>
+      <li>balance.txt</li>
+    </ul>
   <li>Task 18 - Introduction to Machine Learning	</li>
-  <li>Task 19 - Supervised learning I: Simple Linear Regression	[Salary_Data.csv and Mall_Customers.csv]</li>
+  <li>Task 19 - Supervised learning I: Simple Linear Regression</li>
+    <ul>
+      <li>Part 1: insurance.csv</li>
+      <li>Part 2: Salary_Data.csv and Mall_Customers.csv</li>
+    </ul>
   <li>Task 20 - Introduction to NLP	</li>
   <li>Task 21 - Semantic Similarity (NLP)	</li>
   <li>Task 22 - Capstone Project - NLP</li>
